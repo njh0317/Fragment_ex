@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string-array name="titles">
+        <item>Orientation</item>
+        <item>Language</item>
+        <item>Zmajski Most (Dragon Bridge)</item>
+        <item>Kinoteka</item>
+        <item>Architecture Museum of Ljubljana</item>
+        <item>National Museum of Slovenia</item>
+        <item>Hills around the city</item>
+    </string-array>
+    <string-array name="descriptions">
+<item>
+The Ljubljanica river flows through the center of town, past Baroque buildings and under the ramparts of the ancient castle on the hill. The new city and modern-day commercial core lies to the west of the river, while the old city and the castle are located on the east side of the river. Many bridges cross the river, the most famous of which is Tromostovje (Triple Bridge), designed by architect Jože Plečnik.
+</item>
+        <item>
+The main language of the city is unsurprisingly Slovenian. Bosnian/Croatian/Serbian/Montenegrin is generally understood by most people and frequently spoken fluently by adults, especially those over the age of 40. Most of citizens speak at least some English, many, especially those under age of 30, speak it fluently. It\'s also worth trying any major European language you speak as you just might be understood.
+</item>
+        <item>
+Completed in 1901, designed by Croatian Jurij Zainovich. It is guarded by four detailed dragon statues from the city\'s coat-of-arms. Look out for the dragon motif throughout the city. Be careful around the Dragon Bridge area, as it is on a major busy road just outside the pedestrian zone and near misses (and worse) between inattentive tourists and traffic are common. The dragon bridge is located at the end of the Ljubljana Open Market, just a block or two down the river (north-east direction) from the Triple bridge
+</item>
+        <item>
+Ljubljana\'s charming film museum where they have at least two movies a day. The movies range from classics to cult movies, from trash and horror to artistic masterpieces. All movies are presented in the original audio language, and equipped with Slovenian subtitles, sometimes also English. On Saturday mornings they have special projections for children. There are also some special events, round tables, premiers etc. all the time.
+</item>
+        <item>
+Hosts a permanent exhibition of Jože Plečnik\'s works. Student: €1; Adult: €2
+</item>
+        <item>
+National museum of Slovenia is the oldest and the largest Slovene museum. It was founded in 1821. Existent museum building on the Museum street, was built in 1888 and was the first, building, assigned solely to culture in Slovenia. Today its stores a rich collections of valuable objects. The oldest spring back to the Stone Age, but there are also the newer ones, which are still used in our everyday life. Important columns of museum activity are also rich museum library and unit for preservation and restoring. Free admission each first of the month.
+</item>
+        <item>
+Šmarna gora (662 m), is a popular (and overcrowded on weekends) hill on the northern outskirts of the city. For 30-60 minutes of easy climbing you will be rewarded with a nice view over the entire city. Bus number 8 will take you to the foothill; get off at \'Tacen\'.
+</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+    <!--  Preference Titles  -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <!--  Messages Preferences  -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <!--  Sync Preferences  -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">
+Automatically download attachments for incoming emails
+</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
